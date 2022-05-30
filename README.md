@@ -1,2 +1,3 @@
 # .config
-My .config files.
+
+My config files for almost everything i use on my dev enviroment, like nvim, alacritty, etc...
