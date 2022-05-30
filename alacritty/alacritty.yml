@@ -69,15 +69,15 @@ font:
   # The normal (roman) font face to use.
   # Style can be specified to pick a specific face.
   normal:
-    family: Fira Code
+    family: FiraCode Nerd Font 
     style: Retina
       # The bold font face
   bold:
-    family: Fira Code
+    family: FiraCode Nerd Font
     style: Bold
       # The italic font face
   italic:
-    family: Fira Code
+    family: FiraCode Nerd Font
     style: "Light Italic"
   
     # Point size of the font
